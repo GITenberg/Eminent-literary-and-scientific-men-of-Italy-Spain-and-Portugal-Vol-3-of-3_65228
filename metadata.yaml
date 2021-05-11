@@ -1,5 +1,8 @@
 _repo: Eminent-literary-and-scientific-men-of-Italy-Spain-and-Portugal-Vol-3-of-3_65228
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65228-h/images/eminent03_italy_cover.jpg
 creator:
   authors:
   - agent_name: Montgomery, James
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41766
     wikipedia: https://en.wikipedia.org/wiki/Dionysius_Lardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65228#Eminent-literary-and-scientific-men-of-Italy-Spain-and-Portugal-Vol-3-of-3
 gutenberg_issued: '2021-05-02'
 gutenberg_type: Text
 identifiers:
